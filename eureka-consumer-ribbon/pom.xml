@@ -11,7 +11,7 @@
 	<groupId>com.wjwcloud</groupId>
 	<artifactId>eureka-consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eureka-consumer</name>
+	<name>eureka-consumer-ribbon</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
