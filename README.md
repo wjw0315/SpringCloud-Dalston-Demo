@@ -11,4 +11,5 @@ eureka-registry-server | 1001 | 服务注册中心，提供服务注册、发现
 eureka-client | 2001 | 服务提供方demo
 eureka-consumer | 2101 | 服务消费方demo
 eureka-consumer-ribbon | 2101 | 服务消费方负载均衡demo
+eureka-consumer-feign | 2101 | 服务消费工具Feign
 
