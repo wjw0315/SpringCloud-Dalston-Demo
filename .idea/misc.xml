@@ -6,8 +6,8 @@
         <option value="$PROJECT_DIR$/eureka-server/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-consumer-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-registry-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer-feign/pom.xml" />
       </list>
     </option>
   </component>
