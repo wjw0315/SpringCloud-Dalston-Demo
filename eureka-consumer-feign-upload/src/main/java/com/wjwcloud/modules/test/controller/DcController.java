@@ -1,0 +1,9 @@
+package com.wjwcloud.modules.test.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DcController {
+
+
+}
