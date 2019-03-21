@@ -7,7 +7,8 @@
         <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-registry-server/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-consumer-feign-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server-git/pom.xml" />
+        <option value="$PROJECT_DIR$/config-clinet/pom.xml" />
       </list>
     </option>
   </component>
