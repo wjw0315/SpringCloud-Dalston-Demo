@@ -3,9 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud-Dalston-Demo.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud-Dalston-Demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config-clinet/config-clinet.iml" filepath="$PROJECT_DIR$/config-clinet/config-clinet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config-server-git/config-server-git.iml" filepath="$PROJECT_DIR$/config-server-git/config-server-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-hystrix-turbine/cloud-hystrix-turbine.iml" filepath="$PROJECT_DIR$/cloud-hystrix-turbine/cloud-hystrix-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-feign-hystric/eureka-consumer-feign.iml" filepath="$PROJECT_DIR$/eureka-consumer-feign-hystric/eureka-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/eureka-consumer-ribbon.iml" filepath="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/eureka-consumer-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-registry-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-registry-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server/eureka-server.iml" />
     </modules>
