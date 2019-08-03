@@ -10,8 +10,15 @@ Dalston版本-Demo
 eureka-registry-server | 1001 | 服务注册中心，提供服务注册、发现功能
 eureka-client | 2001 | 服务提供方demo
 eureka-consumer | 2101 | 服务消费方demo
-eureka-consumer-ribbon | 2101 | 服务消费方负载均衡demo
-eureka-consumer-feign | 2101 | 服务消费工具Feign
+eureka-consumer-ribbon | 2101 | 服务消费方ribbon-demo
+eureka-consumer-feign | 2101 | 服务消费工具Feign-demo
+eureka-consumer-feign-upload |  | 使用Feign调用服务提供方上传接口
+config-server-git | 1201 | 配置中心 服务端  调用Git中的配置
+config-client | 2001 |  读取配置中心配置
+eureka-consumer-ribbon-hystrix |  | ribbon使用hystrix进行服务熔断
+eureka-consumer-feign-hystrix |  |  feign使用hystrix进行服务熔断
+
+
 
 ### 案例开发教程
 
