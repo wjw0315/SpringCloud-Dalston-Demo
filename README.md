@@ -28,4 +28,3 @@ eureka-consumer-feign-hystrix |  |  feign使用hystrix进行服务熔断
 - [Dalston-服务消费工具-Feign-4](http://wjwcloud.com/springcloud/2019/03/21/Dalston-服务消费工具-Feign-4/)
 - [Dalston-服务消费工具-Feign-上传文件-5](http://wjwcloud.com/springcloud/2019/03/21/Dalston-服务消费工具-Feign-上传文件-5/)
 - [Dalston-分布式配置中心-(Config)-6](http://wjwcloud.com/springcloud/2019/03/21/Dalston-分布式配置中心-(Config)-6/)
-- [SpringBoot整合FastDFS](http://wjwcloud.com/springboot/2019/07/31/SpringBoot%E6%95%B4%E5%90%88FastDFS/)
