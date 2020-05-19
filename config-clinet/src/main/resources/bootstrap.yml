@@ -5,6 +5,6 @@ spring:
     config:
       uri: http://localhost:1201/
       profile: dev
-      label: master
+#      label: feature/wjw
 server:
   port: 2001
