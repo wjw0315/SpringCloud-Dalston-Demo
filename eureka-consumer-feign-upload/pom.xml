@@ -62,7 +62,7 @@
 		<dependency>
 			<groupId>commons-fileupload</groupId>
 			<artifactId>commons-fileupload</artifactId>
-			<version>1.3.3</version>
+			<version>1.5</version>
 		</dependency>
 		<!--Slf4j日志-->
 		<dependency>
